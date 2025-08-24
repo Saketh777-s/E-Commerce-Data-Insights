@@ -1,0 +1,6 @@
+review_id,user_id,product_id,rating,review_text
+3001,101,1,5,"Great laptop, very fast!"
+3002,102,3,4,"Comfortable T-shirt, good quality."
+3003,101,5,5,The coffee maker works perfectly.
+3004,103,2,3,"The smartphone is okay, nothing special."
+3005,104,4,5,"Love these jeans, perfect fit."

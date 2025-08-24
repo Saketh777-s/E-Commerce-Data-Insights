@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,1200
+2,Smartphone,Electronics,800
+3,T-Shirt,Apparel,25
+4,Jeans,Apparel,50
+5,Coffee Maker,Home Goods,75
+6,Desk Lamp,Home Goods,30
+7,Headphones,Electronics,150
+8,Sneakers,Apparel,90
+9,Blender,Home Goods,60
+10,Gaming Mouse,Electronics,45
